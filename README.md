@@ -3,5 +3,4 @@
 
 Clone with all submodules
 ```console
-git clone --recurse-submodules -j8 git@github.com:eskoruppa/PMCpy.git
-```
+git clone --recurse-submodules -j8 git@github.com:eskoruppa//Delete.Restore.gitignore
